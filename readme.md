@@ -12,6 +12,7 @@ A simple calculator that supports ints and floats, addition, subtraction, multip
 * Type `multiply` or `multiplication` to multiply
 * Type `divide` or `division` to divide
 * Type `remainder` to get the remainder of a quotient
+
 Can be viewed at: https://chrisramer.github.io/Caulculator-Business-Logic/
 
 ## Setup/Installation Requirements
