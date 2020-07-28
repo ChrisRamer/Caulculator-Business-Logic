@@ -19,7 +19,7 @@ Can be viewed at: https://chrisramer.github.io/Caulculator-Business-Logic/
 
 Clone this repo to your desktop.
 
-Open the folder named ""Calculator-Business-Logic and double click `index.html` to open it in browser.
+Open the folder named `Calculator-Business-Logic` and double click `index.html` to open it in browser.
 
 ## Technologies Used
 
